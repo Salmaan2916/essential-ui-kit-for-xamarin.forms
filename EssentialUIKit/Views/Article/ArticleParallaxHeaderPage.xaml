@@ -11,7 +11,7 @@
     xmlns:template="clr-namespace:EssentialUIKit.Views.Templates"
     xmlns:viewModel="clr-namespace:EssentialUIKit.ViewModels.Article"
     x:Name="articleParallaxPage"
-    BackgroundColor="{DynamicResource Gray-White}"
+    BackgroundColor="{DynamicResource Gray-White} "
     NavigationPage.HasNavigationBar="False">
 
     <ContentPage.Resources>
